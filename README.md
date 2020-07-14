@@ -17,11 +17,11 @@ Budiluhur University Student. :man_technologist:
 
 ## My Works
 
-- **DILAN** ( Digital Library Application ) [ https://perpus-smkn1clg.com ] [:ok:]
-- **eFasis Siswa SMKN 1 Cilegon** [ Local Server ] [:ok:]
-- **ClickNikah** | Undangan Pernikahan Online [ https://www.clicknikah.com/ ] [:no_entry_sign:]
-- **ImageSection** | Free Image Hosting [https://www.imagesection.com ] [:ok:]
-- **FileZoo** | Spread your files to multiple file hosting [https://filezoo.net/] [:ok:]
+- **DILAN** ( Digital Library Application ) [ https://perpus-smkn1clg.com ] [:heavy_check_mark:]
+- **eFasis Siswa SMKN 1 Cilegon** [ Local Server ] [:heavy_check_mark:]
+- **ClickNikah** | Undangan Pernikahan Online [ https://www.clicknikah.com/ ] [:red_circle:]
+- **ImageSection** | Free Image Hosting [https://www.imagesection.com ] [:heavy_check_mark:]
+- **FileZoo** | Spread your files to multiple file hosting [https://filezoo.net/] [:heavy_check_mark:]
 
 ## Work Experience
 - **PT Klip Plastik** as **Web Developer** - **08/2018** untill **now** [Tangerang]
