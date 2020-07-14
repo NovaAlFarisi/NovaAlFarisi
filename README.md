@@ -15,10 +15,23 @@ Budiluhur University Student. :man_technologist:
 - :video_game: I like to play video games
 - :gem: I love to program things that work in real world and useful for people
 
+## My Works
+
+- **DILAN** ( Digital Library Application ) [ https://perpus-smkn1clg.com ] [:ok:]
+- **eFasis Siswa SMKN 1 Cilegon** [ Local Server ] [:ok:]
+- **ClickNikah** | Undangan Pernikahan Online [ https://www.clicknikah.com/ ] [:no_entry_sign:]
+- **ImageSection** | Free Image Hosting [https://www.imagesection.com ] [:ok:]
+- **FileZoo** | Spread your files to multiple file hosting [https://filezoo.net/] [:ok:]
+
+## Work Experience
+- **PT Klip Plastik** as **Web Developer** - **08/2018** untill **now** [Tangerang]
+- **PT Krakatau Information & Technology** Internship as **Web Developer** - **07/2017** to **08/2017** [Cilegon]
+
 ## Social media :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/nova_alfarisi)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/nova-al-26a0b719b/)
 
----
-⭐️ From [FatChicken277](https://github.com/FatChicken277)
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=novaalfarisi.novaalfarisi)
