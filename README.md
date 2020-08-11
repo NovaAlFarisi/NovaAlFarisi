@@ -22,6 +22,7 @@ Budiluhur University Student. :man_technologist:
 - **ClickNikah** | Undangan Pernikahan Online [ https://www.clicknikah.com/ ] [:red_circle:]
 - **ImageSection** | Free Image Hosting [https://www.imagesection.com ] [:heavy_check_mark:]
 - **FileZoo** | Spread your files to multiple file hosting [https://filezoo.net/] [:heavy_check_mark:]
+- **Alquran Digital** | Read Alquran anytime anywhere [https://alquran.digital/] [:heavy_check_mark:]
 
 ## Work Experience
 - **PT Klip Plastik** as **Web Developer** - **08/2018** untill **now** [Tangerang]
@@ -34,4 +35,4 @@ Budiluhur University Student. :man_technologist:
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=novaalfarisi.novaalfarisi)
+![](https://komarev.com/ghpvc/?username=NovaAlFarisi&color=blue)
