@@ -1,4 +1,4 @@
-<img align="right" width="400" height="300" src="https://instagram.fcgk13-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/65491742_2362991187246819_5562166947935712732_n.jpg?_nc_ht=instagram.fcgk13-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=F9-31e-CU5AAX_KBfwy&oh=b12065bcc94f83cc68756bd2123ae689&oe=5F373B54">
+<img align="right" width="400" height="300" src="https://novaalfarisi.netlify.app/nopa.jpeg">
 
 [https://novaalfarisi.netlify.app/](https://novaalfarisi.netlify.app/)
 
