@@ -27,8 +27,9 @@ Budiluhur University Student. :man_technologist:
 - **Alquran Digital** | Read Alquran anytime anywhere [https://alquran.digital/] [:heavy_check_mark:]
 
 ## Work Experience
-- **PT Klip Plastik** as **Web Developer** - **08/2018** untill **now** [Tangerang]
 - **PT Krakatau Information & Technology** Internship as **Web Developer** - **07/2017** to **08/2017** [Cilegon]
+- **PT Klip Plastik** as **Web Developer** - **08/2018** untill **01/2021** [Tangerang]
+- **Jubelio.com** as **Full-Stack Engineer** - **01/2021** untill **NOW** [Jakarta]
 
 ## Social media :mailbox_with_no_mail:
 
