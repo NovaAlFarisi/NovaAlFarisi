@@ -4,7 +4,7 @@
 
 # Hi, I'm Nova Al Farisi :chicken:
 
-Back-End Developer :robot:
+Full-stack Engineer :robot:
 
 Budiluhur University Student. :man_technologist:
 
